@@ -42,6 +42,8 @@ gem "paperclip", "~> 4.2"
 
 gem 'unicorn'  
 
+gem 'rb-readline'
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
